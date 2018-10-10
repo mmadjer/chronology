@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2018-07-07T16:00:52.235122",
+  "title": "Zeittafel",
+  "@title": {
+    "description": "Title of the application",
+    "type": "text",
+    "placeholders": {}
+  }
+}

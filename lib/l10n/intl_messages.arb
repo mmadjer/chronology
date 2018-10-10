@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2018-07-10T16:50:52.799234",
+  "title": "Chronology",
+  "@title": {
+    "description": "Title of the application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
