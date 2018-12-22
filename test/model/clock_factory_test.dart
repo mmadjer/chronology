@@ -2,7 +2,7 @@ import 'package:chronology/model/clock_english.dart';
 import 'package:chronology/model/clock_factory.dart';
 import 'package:chronology/model/clock_german.dart';
 import 'package:flutter/material.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   test('Returns instance of ClockGerman when language code is de', () {
